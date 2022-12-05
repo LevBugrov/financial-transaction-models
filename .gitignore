@@ -1,3 +1,5 @@
 /ftm
 /geckodriver.log
 data.pickle
+data_50.pkl
+data_20.pkl
